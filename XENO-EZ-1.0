@@ -1,9 +1,9 @@
 getgenv().Games = {
   [15135285305] = "https://raw.githubusercontent.com/Nattaphon07/XENO-EZz/refs/heads/main/XENO-EZz", -- GEF
-  [17625359962] = "https://raw.githubusercontent.com/Nattaphon07/Rivals-/refs/heads/main/Rivals", -- Rivals
+  [17625359962] = "https://raw.githubusercontent.com/Nattaphon07/Rivals-/refs/heads/main/Rivals", -- Rivals (เลือกเพียงหนึ่ง URL)
   [5777099015] = "https://raw.githubusercontent.com/Nattaphon07/Cheese-Escape/refs/heads/main/Cheese-Escape", -- Cheese Escape
   [537413528] = "https://raw.githubusercontent.com/Nattaphon07/Build-A-Boat-For-Treasure/refs/heads/main/Build%20A%20Boat%20For%20Treasure", -- Build-A-Boat-For-Treasure
-  [17625359962] = "https://raw.githubusercontent.com/Nattaphon07/Fisch/refs/heads/main/Fisch", -- Fisch
   [3475397644] = "https://raw.githubusercontent.com/Nattaphon07/DA-SCRIPT/refs/heads/main/DA-SCRIPT", -- DA-SCRIPT
-
+  [16732694052] = "https://raw.githubusercontent.com/Nattaphon07/Fisch/refs/heads/main/Fisch", -- Fisch
 }
+v
